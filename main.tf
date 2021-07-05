@@ -1,3 +1,5 @@
+# blog: https://fabianlee.org/2021/07/05/kvm-installing-terraform-and-the-libvirt-provider-for-local-kvm-resources/
+
 terraform {
   required_version = ">= 1.0.1"
   required_providers {
